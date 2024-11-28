@@ -1,0 +1,5 @@
+pytest==8.3.3
+selenium==4.26.1
+webdriver-manager
+pytest-bdd
+behave
